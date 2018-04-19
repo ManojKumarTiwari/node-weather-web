@@ -1,0 +1,19 @@
+{
+  "name": "node-weather-web",
+  "version": "1.0.0",
+  "description": "web weather app using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojKumarTiwari/node-weather-web.git"
+  },
+  "author": "Manoj Kumar Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManojKumarTiwari/node-weather-web/issues"
+  },
+  "homepage": "https://github.com/ManojKumarTiwari/node-weather-web#readme"
+}
